@@ -118,7 +118,7 @@ No es necesario instalarlas manualmente si se utiliza el archivo:
 `ejecutar_programa.bat`
 
 Este archivo se encarga de instalar o verificar automáticamente
-las dependencias necesarias, sin embargo debe selecionar el archivo " ejecutar_porgrama" dar click derecho elegir propiedades y desbloquear el archivo, posteriormente ejecutar y en entorno python intalado anteriormente permite ejecutar el prgrama sin necesidad de un entrode de desarrollo
+las dependencias necesarias, sin embargo debe selecionar el archivo " ejecutar_programa", dar click derecho, elegir propiedades y desbloquear el archivo, posteriormente ejecutar, entorno python debe estar instalado anteriormente, finlamnete puede ejecutar el programa, sin necesidad de un entorno de desarrollo
 
 ---
 
